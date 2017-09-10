@@ -7,9 +7,9 @@ Prosta gra w zgadywanie liczb. Komputer musi wylosować liczbę w zakresie od 1 
     Jeśli liczba podana przez użytkownika jest mniejsza niż wylosowana, wyświetlić komunikat "Za mało!", po czym wrócić do pkt. 1.
     Jeśli liczba podana przez użytkownika jest większa niż wylosowana, wyświetlić komunikat "Za dużo!", po czym wrócić do pkt. 1.
     Jeśli liczba podana przez użytkownika jest równa wylosowanej, wyświetlić komunikat "Zgadłeś!", po czym zakończyć działanie programu.
-#Zadanie 2
+####Zadanie 2
 Prosty Symulator Lotto
-#Zadanie 3
+####Zadanie 3
 Użytkownik pomyśli sobie liczbę z zakresu 1-1000, a komputer będzie zgadywał użytkownik podaje tylko informacje wiecej minej i trafione
-#Own Workszop
+####Own Workszop
 Jest to sumulator kilku  gier lotto
